@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+body{
+  font-family: "Google Sans", sans-serif;
+  background-color: black;
+
+}
+.space{
+  font-family: "Space Grotesk", sans-serif;
+}
+.bebas{
+  font-family: "Bebas Neue", sans-serif;
+}
