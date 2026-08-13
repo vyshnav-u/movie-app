@@ -22,7 +22,7 @@ function Header() {
 
                     <h1 className='pt-10 text-[200px] lg:text-[550px]'>FIGHT</h1>
                     <h1 className='text-1xl  md:-translate-y-[90px]'>--- CLUB ---</h1>
-                    <img className='absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-20 lg:h-[500px] rounded-b-[100px]' src="./public/brad.png" alt="" />
+                    <img className='absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-20 lg:h-[500px] rounded-b-[100px]' src="./src/assets/brad.png" alt="" />
                 </div>
                 <h1 className='hidden md:block text-[#C62828]/50 space text-xs text-center'>
                     An underground world where ordinary men escape routine, challenge expectations, and search for meaning beyond material possessions.
