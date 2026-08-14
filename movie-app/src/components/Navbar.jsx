@@ -17,9 +17,16 @@ function Navbar() {
                     GRAW
                 </div>
 
-                <div className="flex gap-6 text-xl text-[#C62828]">
-                    <FaSearch/>
-                </div>
+                <button
+                    onClick={() =>
+                        document.getElementById('search-section').scrollIntoView({
+                            behavior: 'smooth',
+                        })
+                    }
+                    className="flex gap-6 text-xl text-[#C62828]"
+                >
+                    <FaSearch />
+                </button>
 
             </nav>
         </div>

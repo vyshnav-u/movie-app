@@ -47,8 +47,8 @@ function ShowsSection() {
   };
 
   return (
-    <section className="min-h-screen bg-black px-6 md:px-12 py-10">
-      <h1 className="md:text-[90px] text-[60px] leading-[60px] font-bold bebas text-white mb-2">
+    <section id="search-section" className="min-h-screen bg-black px-6 md:px-12  py-10">
+      <h1 className="md:text-[90px] text-[60px] leading-[60px] font-bold bebas mt-20 text-white mb-2">
         Discover Movies*
       </h1>
 
